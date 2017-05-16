@@ -16,4 +16,5 @@ const styles = {
         allignItems: 'center'
     }
 };
+
 export { Spinner };

@@ -39,4 +39,5 @@ const styles = {
         alignItems: 'center'
     }
 };
+
 export { Input };

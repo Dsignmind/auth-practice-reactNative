@@ -37,5 +37,5 @@ const styles = {
 };
 
 export { Button };
-//because we are exporting all of our components in a common file we must use this syntax
-//instead of 'export default Button;'
+//because we are exporting all of our components in a common file we
+//must use this syntax instead of 'export default Button;'

@@ -5,7 +5,6 @@ import firebase from 'firebase';
 import { Header, Button, Spinner } from './components/common';
 import LoginForm from './components/LoginForm';
 
-
 class App extends Component {
     state = { loggedIn: null };
 

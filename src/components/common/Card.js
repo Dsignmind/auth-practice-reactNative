@@ -25,4 +25,5 @@ const styles = {
         marginTop: 10
     }
 };
+
 export { Card };
